@@ -11,8 +11,8 @@
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
 [docs-dev-url]: https://climate-machine.github.io/CalibrateEmulateSample.jl/dev/
 
-[travis-img]: https://travis-ci.org/climate-machine/CalibrateEmulateSample.jl.svg?branch=master
-[travis-url]: https://travis-ci.org/climate-machine/CalibrateEmulateSample.jl
+[travis-img]: https://travis-ci.org/rohanmclure/CalibrateEmulateSample.jl.svg?branch=master
+[travis-url]: https://travis-ci.org/rohanmclure/CalibrateEmulateSample.jl
 
 [appveyor-img]: https://ci.appveyor.com/api/projects/status/c6eykd0w94pmyjt8/branch/master?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/climate-machine/calibrateemulatesample-jl/branch/master
